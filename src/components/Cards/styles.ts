@@ -15,7 +15,7 @@ export const Container = styled.div`
    max-width: 100%;
    padding: 0px 20px;
    position: relative;
-   /* width: 80%; */
+   width: 80%;
 `;
 
 export const Card = styled.div`
